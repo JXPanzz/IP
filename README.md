@@ -1,1 +1,1 @@
-IP of four NVIDIA cards PC: 192.168.1.104, lasted update time:2019-05-18 12:33:40  
+IP of the four NVIDIA cards PC: 192.168.1.104, lasted update time :2019-05-18 12:47:05  
