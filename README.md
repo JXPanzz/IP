@@ -1,1 +1,1 @@
-Four NVIDIA cards PC: 192.168.1.104  
+ID of four NVIDIA cards PC: 192.168.1.104, lasted update time:2019-05-18 12:31:51  
