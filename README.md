@@ -1,1 +1,1 @@
-IP of the four NVIDIA cards PC: 172.26.153.130
+IP of the four NVIDIA cards PC: 172.26.152.68
